@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+venv/
+env/
+.env
+
+# Pygame / OS
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Assets (large binaries — add your own pieces)
+# assets/pieces/*.png   ← uncomment if you don't want to commit images
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Logs
+*.log

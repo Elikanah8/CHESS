@@ -43,4 +43,4 @@ chess/
 - python-chess 1.10+
 
 ---
-Built step-by-step 🚀
+Built step-by-step ...have fun

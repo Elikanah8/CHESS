@@ -3,9 +3,9 @@
 A feature-rich Python chess game built with **Pygame** and **python-chess**.
 
 ## Features
-- 🤖 **vs Computer** — Easy / Medium / Hard AI (Minimax + Alpha-Beta Pruning)
-- 📚 **Learning Tutorial** — Interactive lessons for new players
-- 🌐 **Online Multiplayer** — Play with a friend using a shared room code
+- **vs Computer** — Easy / Medium / Hard AI (Minimax + Alpha-Beta Pruning)
+-  **Learning Tutorial** — Interactive lessons for new players
+-  **Online Multiplayer** — Play with a friend using a shared room code
 
 ## Installation
 
